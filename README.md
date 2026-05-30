@@ -1,7 +1,9 @@
 
 # NeetCode 150 Tracker 
 
-Welcome to my repository dedicated to mastering data structures and algorithms (DSA) through the **NeetCode 150** curriculum. This repo serves as a daily practice ground to sharpen my problem-solving skills and prepare for technical interviews.
+Welcome to my repository dedicated to mastering data structures and algorithms (DSA) through the **NeetCode 150** curriculum. 
+
+This repo serves as a daily practice ground to sharpen my problem-solving skills and prepare for technical interviews.
 
 ---
 
